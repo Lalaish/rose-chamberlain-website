@@ -1,7 +1,7 @@
 body{
     font-family: barlow-extralight,barlow,sans-serif;
     text-align: center;
-    background-color: rgb(255,255,255);
+    background-color: whitesmoke;
 }
 
 .pinktext{
@@ -28,4 +28,17 @@ body{
    text-align: right;
    margin-top: 100px;
    margin-right: 50px;
+}
+
+.numerotel{
+    display: inline-block;
+    font-size: 30px;
+    vertical-align: top;
+    margin-top: 15px;
+
+}
+
+.whats a{
+    text-decoration: none;
+    margin-top: 20px;
 }
