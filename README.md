@@ -4,3 +4,4 @@ website for a colleague's confectionery business, created as a beginner project 
 Change log
 
 [08/02/2023] Created repository and started the project
+[12/02/2023] Added business logo to the main page and style changes
